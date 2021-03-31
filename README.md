@@ -1,6 +1,6 @@
-## Run server
+### Run server
 
-you should go to api folder şn project and run this command:
+you should go to api folder in project and run this command:
 
 ### `json-server --watch db.json`
 
