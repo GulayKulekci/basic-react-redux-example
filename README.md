@@ -7,8 +7,6 @@ You should relocate to api folder in project and run this command:
 Runs the server in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
